@@ -53,6 +53,7 @@ src
 |   |   |   |   |   |-- scooter
 |   |   |   |   |   |   |-- qa
 |   |   |   |   |   |   |   |-- Courier.java
+|   |   |   |   |   |   |   |-- CourierClient.java
 |   |   |   |   |   |   |   |-- Orders.java
 |--test
 |   |-- java
