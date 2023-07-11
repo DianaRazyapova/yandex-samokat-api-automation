@@ -99,3 +99,18 @@ src
 4. Список заказов
 
 Проверенно, что в тело ответа возвращается список заказов.
+
+## Отчёт Allure
+> Сгенерированные отчеты
+<table>
+     <tr>
+        <td>
+         <img width="1624" alt="Отчеты" src="https://github.com/DianaRazyapova/yandex-samokat-api-automation/assets/115238502/cf059d4e-0472-4191-8a87-43304bab643a">
+        </td>
+     </tr>
+     <tr>
+        <td>
+        <img width="1624" alt="Снимок экрана 2023-07-10 в 17 35 48" src="https://github.com/DianaRazyapova/yandex-samokat-api-automation/assets/115238502/7f802af0-cf23-4f8c-af7a-4978e7c01984">
+       </td>
+    </tr>
+</table>
